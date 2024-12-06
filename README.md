@@ -1,2 +1,2 @@
 # Workshop
-The repository i created during GitHub workshop
+The repository I created during GitHub workshop
